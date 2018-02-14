@@ -1,5 +1,10 @@
 # ignore-warnings
 
+[![Beerpay](https://beerpay.io/jamrizzi/ignore-warnings/badge.svg?style=beer-square)](https://beerpay.io/jamrizzi/ignore-warnings)
+[![Beerpay](https://beerpay.io/jamrizzi/ignore-warnings/make-wish.svg?style=flat-square)](https://beerpay.io/jamrizzi/ignore-warnings?focus=wish)
+[![NPM](https://img.shields.io/npm/v/ignore-warnings.svg?style=flat-square)](https://www.npmjs.com/package/ignore-warnings)
+[![NPM](https://img.shields.io/npm/dt/ignore-warnings.svg?style=flat-square)](https://www.npmjs.com/package/ignore-warnings)
+[![Drone](https://ci.jamrizzi.com/api/badges/jamrizzi/ignore-warnings/status.svg)](https://ci.jamrizzi.com/jamrizzi/ignore-warnings)
 [![GitHub stars](https://img.shields.io/github/stars/jamrizzi/ignore-warnings.svg?style=social&label=Stars)](https://github.com/jamrizzi/ignore-warnings)
 
 > 🤷⚠️ Ignore warnings and logs
