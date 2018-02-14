@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/jamrizzi/ignore-warnings.svg?style=social&label=Stars)](https://github.com/jamrizzi/ignore-warnings)
 
-Ignore warnings and logs
+> 🤷⚠️ Ignore warnings and logs
 
 Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
 
