@@ -4,15 +4,16 @@ export default function ignoreWarnings(type, ignoreMessages) {
     type = 'warn';
   }
   if (!Array.isArray(ignoreMessages)) ignoreMessages = [ignoreMessages];
-  if (type === 'warn') {
-    try {
-      // eslint-disable-next-line global-require, import/no-extraneous-dependencies, no-eval
-      const { YellowBox } = eval("require('react-native')");
-      YellowBox.ignoreWarnings(ignoreMessages);
-      // eslint-disable-next-line no-empty
-    } catch (err) {}
-  }
-  const overloadedConsole = { ...console };
+  const overloadedConsole = {
+    // eslint-disable-next-line no-console
+    log: console.log,
+    // eslint-disable-next-line no-console
+    info: console.info,
+    // eslint-disable-next-line no-console
+    warn: console.warn,
+    // eslint-disable-next-line no-console
+    error: console.error
+  };
   // eslint-disable-next-line no-console
   console[type] = (...args) => {
     let log = true;

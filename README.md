@@ -11,7 +11,6 @@ Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
 
 * Ignore warnings
 * Ignore logs
-* Ignore react native yellow box
 
 
 ## Installation
