@@ -24,11 +24,9 @@
     "log",
     "warn",
     "warning",
-    "yellow",
-    "box",
-    "react",
-    "react-native",
-    "native"
+    "console",
+    "info",
+    "error"
   ],
   "author": "Jam Risser <jam@jamrizzi.com> (https://jam.jamrizzi.com)",
   "license": "MIT",
