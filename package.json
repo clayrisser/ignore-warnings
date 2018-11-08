@@ -1,6 +1,6 @@
 {
   "name": "ignore-warnings",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "🤷⚠️ Ignore warnings and logs",
   "main": "lib/index.js",
   "scripts": {
