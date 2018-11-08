@@ -42,6 +42,7 @@
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
     "babel-eslint": "^8.2.1",
+    "babel-preset-everything": "^0.1.2",
     "eslint": "^4.17.0",
     "eslint-config-jam": "^0.1.6",
     "parcel-bundler": "^1.5.1",
@@ -53,7 +54,6 @@
     "umd"
   ],
   "dependencies": {
-    "babel-preset-everything": "^0.1.2",
     "newregexp": "^1.0.1"
   }
 }
